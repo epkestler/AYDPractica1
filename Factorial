@@ -1,0 +1,2 @@
+FunacionFatorial(int n)
+return n!;
